@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.exe
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.deps.json
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.json
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.dll
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.pdb
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.dll
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.pdb
+C:\Users\Admin\source\repos\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.genruntimeconfig.cache
